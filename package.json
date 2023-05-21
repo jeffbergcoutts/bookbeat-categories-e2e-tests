@@ -1,0 +1,18 @@
+{
+  "name": "bookbeat-cypress",
+  "version": "1.0.0",
+  "description": "e2e testin bookbeat categories",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "jeff.bergcoutts",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.12.0"
+  }
+}
