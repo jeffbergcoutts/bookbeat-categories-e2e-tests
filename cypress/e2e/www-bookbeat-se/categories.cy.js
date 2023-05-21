@@ -102,3 +102,7 @@ describe('Language Sub-Category Page', () => {
     //TO-DO Check that "Språk" doesn't show in Filters
   })
 })
+
+describe('Mobile layout', () => {
+  //TO-DO Override viewport and verify hiding and showing filters, sub-categories and sort options
+})
